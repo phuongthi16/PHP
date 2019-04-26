@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Counttalor PHP Programming with ryal</title>
+	<title>Máy tính của Thi béo</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
